@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>461f36dc-7338-4aec-9a63-29dbfcfeec1a</ProjectGuid>
+    <ProjectGuid>{342C0D9C-B8E4-48A2-A782-F964D7F8BB52}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ProCsharp</RootNamespace>
