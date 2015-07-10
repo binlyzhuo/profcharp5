@@ -11,6 +11,7 @@ namespace StringProject
         static void Main(string[] args)
         {
             Console.WriteLine("String Project!");
+            //string message = "";
 
             Console.Read();
         }
