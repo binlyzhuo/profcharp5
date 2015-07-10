@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProCsharp", "ProCsharp\ProC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventProject", "EventProject\EventProject.csproj", "{50D588FF-A5E4-4BAF-86F8-673202600327}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringProject", "StringProject\StringProject.csproj", "{E6D51D80-D1C9-456A-8A0A-F4DB04C1A51B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{50D588FF-A5E4-4BAF-86F8-673202600327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50D588FF-A5E4-4BAF-86F8-673202600327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50D588FF-A5E4-4BAF-86F8-673202600327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D51D80-D1C9-456A-8A0A-F4DB04C1A51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D51D80-D1C9-456A-8A0A-F4DB04C1A51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D51D80-D1C9-456A-8A0A-F4DB04C1A51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D51D80-D1C9-456A-8A0A-F4DB04C1A51B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

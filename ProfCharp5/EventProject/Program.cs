@@ -23,6 +23,8 @@ namespace EventProject
         public uint Dollats;
         public uint Cents;
 
+        //================
+
 
     }
 }
